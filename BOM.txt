@@ -1,0 +1,15 @@
+
+PotentiometerServoUno9V BOM:
+
+Power source:
+    1.9V battery:
+        -link: https://www.sparkfun.com/products/10218
+MicroController:
+    1.Arduino uno: 
+        -link: https://www.sparkfun.com/products/11021
+Components:
+    1.Rotary Potentiometer - 10k Ohm, Linear:
+        -link: https://www.sparkfun.com/products/9939
+    2.Servo:
+        -link: https://www.sparkfun.com/products/10333
+
