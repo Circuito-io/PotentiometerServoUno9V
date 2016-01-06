@@ -1,4 +1,4 @@
 #include "Global.h"
 
-Potentiometer potentiometer = Potentiometer(SERVO_SIGNAL_PIN);
+Potentiometer potentiometer = Potentiometer(POTENTIOMETER_SIGNAL_PIN);
 Servo servo;
